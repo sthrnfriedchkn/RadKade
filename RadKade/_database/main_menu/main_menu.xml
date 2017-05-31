@@ -1,0 +1,50 @@
+<menu>
+	<entry name="Atari 2600">
+		<year>1982</year>
+		<description></description>
+		<genre></genre>
+		<players>14</players>
+		<rating></rating>
+		<visible></visible>
+	</entry>
+	<entry name="Atari 5200">
+		<year>1986</year>
+		<description></description>
+		<genre></genre>
+		<players></players>
+		<rating></rating>
+		<visible></visible>
+	</entry>
+	<entry name="Atari 7800">
+		<year>1988</year>
+		<description></description>
+		<genre></genre>
+		<players></players>
+		<rating></rating>
+		<visible></visible>
+	</entry>
+	<entry name="Nintendo Entertainment System">
+		<year>1985</year>
+		<description></description>
+		<genre></genre>
+		<players></players>
+		<rating></rating>
+		<visible></visible>
+	</entry>
+	<entry name="Nintendo 64">
+		<year>1996</year>
+		<description></description>
+		<genre></genre>
+		<players></players>
+		<rating></rating>
+		<visible></visible>
+	</entry>
+	<entry name="Sega Genesis">
+		<year>1995</year>
+		<description></description>
+		<genre></genre>
+		<players></players>
+		<rating></rating>
+		<visible></visible>
+	</entry>
+</menu>
