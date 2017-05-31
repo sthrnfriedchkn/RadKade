@@ -12,7 +12,7 @@ class theme_container:
         self.horizontal_logowidth = ''
         self.horizontal_logofontalignment = ''
         self.horizontal_logovisible = ''
-        self.horizontal_imagelistalignment = ''
+        self.horizontal_imagelistalignment = ''fd
         self.horizontal_imagelist
 
         self.load_theme()
